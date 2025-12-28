@@ -1,1 +1,1 @@
-# chipset-tutorial
+# chipseq-tutorial
